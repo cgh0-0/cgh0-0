@@ -1,10 +1,9 @@
 ## Hi there 👋
 <h1><i>고구마파인애플</i></h1>
 <br><br><br>
-|\      _,,,---,,_
-ZZZzz /,`.-'`'    -.  ;-;;,_
-     |,4-  ) )-,_. ,\ (  `'-'
-    '---''(_/--'  `-'\_)
+
+
+<h5>피자</h5>
 <!--
 **cgh0-0/cgh0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
